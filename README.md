@@ -1,6 +1,6 @@
 # 4oss-project
 
-This is an overrerview of the markdown syntax.
+This is an overview of the markdown syntax.
 
 ## Second level header
 
