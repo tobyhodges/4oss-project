@@ -1,6 +1,8 @@
 # 4oss-project
 
-## Second level heder
+This is an overview of the markdown syntax.
+
+## Second level header
 
 ### 3rd level header
 
